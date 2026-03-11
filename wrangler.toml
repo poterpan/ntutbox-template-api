@@ -1,0 +1,13 @@
+name = "ntutbox-template-api"
+main = "src/index.js"
+compatibility_date = "2025-01-01"
+compatibility_flags = ["nodejs_compat"]
+
+[[kv_namespaces]]
+binding = "SCHEDULE_TEMPLATES"
+id = "PLACEHOLDER_PRODUCTION_KV_ID"
+preview_id = "PLACEHOLDER_PREVIEW_KV_ID"
+
+# Routes — uncomment after custom domain is configured
+# [routes]
+# pattern = "api.ntutbox.com/schedule/templates*"
