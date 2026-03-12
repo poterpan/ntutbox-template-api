@@ -1,0 +1,77 @@
+{
+  "id": "hwu",
+  "school": "醒吾科技大學",
+  "name": "醒吾科技大學 14 節制",
+  "periods": [
+    {
+      "id": "1",
+      "startTime": "08:20",
+      "endTime": "09:10"
+    },
+    {
+      "id": "2",
+      "startTime": "09:15",
+      "endTime": "10:05"
+    },
+    {
+      "id": "3",
+      "startTime": "10:15",
+      "endTime": "11:05"
+    },
+    {
+      "id": "4",
+      "startTime": "11:10",
+      "endTime": "12:00"
+    },
+    {
+      "id": "5",
+      "startTime": "12:05",
+      "endTime": "12:55"
+    },
+    {
+      "id": "6",
+      "startTime": "13:05",
+      "endTime": "13:55"
+    },
+    {
+      "id": "7",
+      "startTime": "14:00",
+      "endTime": "14:50"
+    },
+    {
+      "id": "8",
+      "startTime": "15:00",
+      "endTime": "15:50"
+    },
+    {
+      "id": "9",
+      "startTime": "15:55",
+      "endTime": "16:45"
+    },
+    {
+      "id": "10",
+      "startTime": "16:50",
+      "endTime": "17:40"
+    },
+    {
+      "id": "11",
+      "startTime": "18:30",
+      "endTime": "19:15"
+    },
+    {
+      "id": "12",
+      "startTime": "19:16",
+      "endTime": "20:00"
+    },
+    {
+      "id": "13",
+      "startTime": "20:10",
+      "endTime": "20:55"
+    },
+    {
+      "id": "14",
+      "startTime": "20:56",
+      "endTime": "21:40"
+    }
+  ]
+}
