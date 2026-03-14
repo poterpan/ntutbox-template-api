@@ -208,5 +208,11 @@
     "school": "醒吾科技大學",
     "name": "醒吾科技大學 14 節制",
     "periodCount": 14
+  },
+  {
+    "id": "pccu",
+    "school": "中國文化大學",
+    "name": "文大 15 節制",
+    "periodCount": 15
   }
 ]
