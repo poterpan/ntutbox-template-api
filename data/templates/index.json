@@ -221,4 +221,10 @@
     "name": "正修科大 13 節制",
     "periodCount": 13
   }
+  {
+    "id": "nutc",
+    "school": "國立台中科技大學",
+    "name": "中科大(三民校區) 13 節制",
+    "periodCount": 13
+  },
 ]
