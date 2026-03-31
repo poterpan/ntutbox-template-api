@@ -212,7 +212,13 @@
   {
     "id": "pccu",
     "school": "中國文化大學",
-    "name": "文大 15 節制",
+    "name": "文大 14 節制",
+    "periodCount": 14
+  },
+  {
+    "id": "pccu-old",
+    "school": "中國文化大學",
+    "name": "文大 15 節制（舊）",
     "periodCount": 15
   },
   {

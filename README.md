@@ -65,12 +65,15 @@ GET /schedule/templates/:id
   "id": "your-school-id",
   "school": "學校全名",
   "name": "顯示名稱（例：○○大學 14 節制）",
+  "contributors": ["your-github-username"],
   "periods": [
     { "id": "1", "startTime": "08:10", "endTime": "09:00" },
     { "id": "2", "startTime": "09:10", "endTime": "10:00" }
   ]
 }
 ```
+
+> `contributors` 欄位為選填，用於記錄提交此模板的貢獻者 GitHub 帳號。
 
 3. 在 `data/templates/index.json` 加入對應的摘要項目
 4. 開 PR，附上學校官方節次表的來源連結
