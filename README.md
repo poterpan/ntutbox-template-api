@@ -1,6 +1,6 @@
 # NTUTBox Template API
 
-提供台灣各大學課程節次模板的公開 API，供 [NTUTBox](https://apps.apple.com/app/ntutbox/id6742044903) App 使用。
+提供台灣各大學課程節次模板的公開 API，供 [北科盒子 NTUT Box](https://ntutbox.com) App 使用。
 
 ## API
 
