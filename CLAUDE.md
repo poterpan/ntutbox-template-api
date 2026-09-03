@@ -48,8 +48,10 @@ Time format: 24-hour `HH:mm`. Array order = display order.
 
 本 repo 部署到 `ntutbox.com` zone，而該 zone 每個 hostname 都由 route ＋
 Custom Domain 兩套機制共同擁有，交互作用不在任何單一設定檔裡。部署前先讀
-`ntutbox-edge/docs/zone-topology.md`（受版控的唯一真相來源），並在 Cloudflare
-dashboard 確認實際 route 表。
+zone 拓撲真相檔——**它在另一個 repo**：本機是同一上層目錄下的
+`ntutbox-edge/docs/zone-topology.md`，線上是
+<https://github.com/poterpan/ntutbox-edge/blob/main/docs/zone-topology.md>。
+並在 Cloudflare dashboard 確認實際 route 表。
 
 本 repo 特別要注意：`api.ntutbox.com` 的 Custom Domain 指向本 worker（整個
 hostname），但 `ntutbox-selection-api` 用精確 route
