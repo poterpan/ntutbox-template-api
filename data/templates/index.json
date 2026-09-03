@@ -244,5 +244,11 @@
     "school": "致理科技大學",
     "name": "致理科技大學 14 節制",
     "periodCount": 14
+  },
+  {
+    "id": "stust",
+    "school": "南臺科技大學",
+    "name": "南臺科大 14 節制",
+    "periodCount": 14
   }
 ]
