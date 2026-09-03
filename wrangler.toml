@@ -11,3 +11,6 @@ preview_id = "9c8f6dfb90a24df78028d3e859f66792"
 # Routes — uncomment after custom domain is configured
 # [routes]
 # pattern = "api.ntutbox.com/schedule/templates*"
+
+[observability]
+enabled = true
